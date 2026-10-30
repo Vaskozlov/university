@@ -1,0 +1,5 @@
+# Direct dependency versions used for the 2026-10-30 verification (Python 3.12.14).
+numpy==2.3.5
+opencv-python-headless==5.0.0.93
+matplotlib==3.11.2
+pytest==9.2.0
